@@ -6,7 +6,7 @@ This is a group project done by:
 3. Debjit Dasgupta
 4. Shamik Lahiri
 
-<h2> #PROJECT DESCRIPTION </h2>
+<h3> PROJECT DESCRIPTION </h3>
 
 General method to find out space and time complexity:
 The time complexity of an algorithm is commonly expressed using big O notation, which excludes coefficients and lower order terms. When expressed this way, the time complexity is said to be described asymptotically, i.e., as the input size goes to infinity.
@@ -22,7 +22,7 @@ To make it visually attractive we added the graphical user interface.
 
 
 
-<h2> #INSTRUCTIONS TO RUN : 
+<h3> INSTRUCTIONS TO RUN : </h3>
 1. Run the executable_env.py file.
 2. Instead of using Tab for indentation, use 4 (four) spaces.
 3. Click on File 🡪 Save and save it as test1.py 
