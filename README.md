@@ -40,5 +40,5 @@ To make it visually attractive we added the graphical user interface.
 4. Click on File 🡪 Run the file.
 
 5. If you already have a file saved or present in your computer, then:
-  a.  File -> Open (It will open the saved file)
-  b.  File -> Run
+ <br> a.  File -> Open (It will open the saved file)
+ <br> b.  File -> Run
