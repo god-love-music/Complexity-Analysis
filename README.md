@@ -6,7 +6,7 @@ This is a group project done by:
 3. Debjit Dasgupta
 4. Shamik Lahiri
 
-<h2> #PROJECT DESCRIPTION
+<h2> #PROJECT DESCRIPTION </h2>
 
 General method to find out space and time complexity:
 The time complexity of an algorithm is commonly expressed using big O notation, which excludes coefficients and lower order terms. When expressed this way, the time complexity is said to be described asymptotically, i.e., as the input size goes to infinity.
