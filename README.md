@@ -8,7 +8,7 @@ This is a group project done by:
 3. Debjit Dasgupta
 4. Shamik Lahiri
 
-
+<br>
 
 <h3> PROJECT DESCRIPTION </h3>
 
@@ -29,7 +29,7 @@ Our project calculates time complexity by measuring and accounting for each loop
 To make it visually attractive we added the graphical user interface.
 
 
-
+<br>
 
 <h3> INSTRUCTIONS TO RUN : </h3>
 
